@@ -10,3 +10,8 @@ Click on the link "Items" and the content is not rendered. Open console.
 
 - svelte 5.0.0-next.15
 - @sveltejs/kit 1.27.6.
+
+### Refs
+
+- Issue: https://github.com/sveltejs/svelte/issues/9678
+- PR: https://github.com/sveltejs/svelte/pull/9675
